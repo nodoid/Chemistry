@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{2290823C-8787-4250-AE69-158F650F0A53}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Chemistry/about.resx">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chemistry/about.designer.cs">
     <Files>
       <File FileName="Chemistry/about.cs" Line="16" Column="113" />
-      <File FileName="Chemistry/about.designer.cs" Line="21" Column="10" />
+      <File FileName="Chemistry/about.designer.cs" Line="133" Column="47" />
       <File FileName="Chemistry/about.resx" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
